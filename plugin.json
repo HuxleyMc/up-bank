@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "up-bank",
+  "version": "0.1.0",
+  "description": "Personal Up Bank MCP for accounts, transactions, categories, and tags.",
+  "author": {
+    "name": "Hux Mc"
+  },
+  "homepage": "https://developer.up.com.au",
+  "license": "MIT",
+  "keywords": [
+    "up",
+    "bank",
+    "mcp",
+    "accounts",
+    "transactions"
+  ]
+}
